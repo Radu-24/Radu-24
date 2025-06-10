@@ -3,7 +3,7 @@
 <p align="center">
   <b>Cybersecurity enthusiast | Full-stack tinkerer | Builder of weird & wonderful projects</b><br>
   🔐 Breaking stuff to learn how it works — then securing it.<br>
-  📡 ETTI student | Class of 2024 | Romania 🇷🇴<br>
+  📡 ETTI student | Class of 2026 | Romania 🇷🇴<br>
 </p>
 
 ---
