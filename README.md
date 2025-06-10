@@ -30,7 +30,7 @@ I'm always down to collab, chat tech, or just vibe.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40raduuxo_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raduuxo_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radu%20Matei-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radu-matei-1251172b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-Radu--24-181717?style=flat&logo=github&logoColor=white)](https://github.com/Radu-24)
+[![Discord]()
 
 ---
 
