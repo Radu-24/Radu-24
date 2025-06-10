@@ -1,4 +1,4 @@
-```
+
 <h1 align="center">Hey, I’m Radu 🧠💻</h1>
 <p align="center">
   <b>Cybersecurity enthusiast | Full-stack tinkerer | Builder of weird & wonderful projects</b><br>
