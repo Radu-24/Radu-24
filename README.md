@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Radu-24/Radu-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Radu!  
+I'm a Telecommunications student with a strong passion for cybersecurity and coding. My favorite programming languages are Python, HTML, and CSS.
 
-Here are some ideas to get you started:
+### Projects I'm Proud Of
+- [PingPong Turret](https://github.com/Radu-24/PingPong_Turret)
+- [Password Helper](https://github.com/Radu-24/Password-Helper)
+- [Shutdown Timer App](https://github.com/Radu-24/ShutdownTimer_App)
+- [PathFinder360](https://github.com/Radu-24/PathFinder360)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- 🎾 Tennis and other sports
+- 🎵 Huge music enjoyer
+
+### Let's Connect!
+- [Instagram: @raduuxo_](https://www.instagram.com/raduuxo_/)
+- [LinkedIn: Radu Matei](https://www.linkedin.com/in/radu-matei-1251172b3/)
