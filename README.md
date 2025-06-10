@@ -8,22 +8,9 @@
 
 ---
 
-### 🚀 Featured Projects
-Some of my favorite creations — practical, fun, and just a bit overengineered:
-
-| Project | Description |
-|--------|-------------|
-| 🔫 [PingPong Turret](https://github.com/Radu-24/PingPong_Turret) | AI-powered turret that detects, tracks, and shoots. Built with computer vision and vibes. |
-| 🔐 [Password Helper](https://github.com/Radu-24/Password-Helper) | Desktop app with password analysis, breach checking, encryption vault & Matrix-style UI. |
-| ⏱ [Shutdown Timer](https://github.com/Radu-24/ShutdownTimer_App) | PyQt6 app to control system shutdown with style. Now with cancel button and EXE build. |
-| 🤖 [PathFinder360](https://github.com/Radu-24/PathFinder360) | Tank-like autonomous car with FPV + 360° cam, UWB tracking, and AI event system. |
-
----
-
 ### 💡 What I’m Into
 - 🧠 **Cybersecurity** — Red teaming, ethical hacking, and building secure systems
 - 🛠 **Hardware** — Raspberry Pi, Arduino, 3D printing, robotics with brains
-- 🎮 **Gaming & Modding** — Minecraft horror mod (with AI logic + cursed events 👀)
 - 🎧 **Music** — Festival lover. Playlists curated by vibes, not genres.
 - 🎾 **Sports** — Tennis & fitness to offset my terminal hours
 
@@ -55,4 +42,4 @@ I'm always down to collab, chat tech, or just vibe.
 ---
 
 <p align="center"><i>“Stay curious. Break limits. Build what you can't find.”</i></p>
-```
+
