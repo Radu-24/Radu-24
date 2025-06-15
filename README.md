@@ -41,5 +41,5 @@ I'm always down to collab, chat tech, or just vibe.
 
 ---
 
-<p align="center"><i>“Stay curious. Break limits. Build what you can't find.”</i></p>
+<p align="center"><i>“For the history makers, the late brak­ers, the risk takers, the limit breakers.”</i></p>
 
